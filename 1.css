@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+}
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+}
+nav {
+    background-color:black;
+    padding: 10px;
+    text-align: center;
+}
+nav a {
+    text-decoration: none;
+    color: white;
+    padding: 10px 20px;
+}
+nav a:hover {
+    background-color: #ddd;
+}
+.container {
+    width: 80%;
+    margin: auto;
+    padding: 20px;
+}
+.recipe {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+.recipe h2 {
+    margin-top: 0;
+}
+.recipe p {
+    margin-bottom: 10px;
+}

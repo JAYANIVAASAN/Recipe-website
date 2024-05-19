@@ -1,0 +1,33 @@
+header, nav, main, footer {
+    padding: 20px;
+}
+body{
+    background-image: url('a3\ depositphotos_566178464-stock-illustration-hand-drawn-culinary-illustration-kitchen.jpg');
+    background-size: cover;
+}
+
+header {
+    background-color: #333;
+    padding: 10px;
+    color: #fff;
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 10px;
+}
+
+nav ul li a {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+
+nav ul li a:hover {
+    color: rgb(255, 0, 0);
+}
